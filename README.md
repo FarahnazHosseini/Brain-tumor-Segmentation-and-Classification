@@ -1,1 +1,3 @@
 # Brain-tumor-Segmentation-and-Classification
+In this work, I developed a framework for accurate segmentation and classification of brain tumors, targeting metastatic tumors, gliomas, and meningiomas. I implemented a skull removal algorithm during the pre-processing stage to prepare MRI images. In the segmentation phase, I applied the K-means algorithm to isolate tumor regions from the brain. For classification, I used spatial features to identify meningiomas and histogram light intensity features to detect gliomas and metastatic tumors. The system is designed to analyze T1-weighted MRI images of brain tumors acquired after contrast material injection.
+The code is available 
