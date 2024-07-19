@@ -1,0 +1,85 @@
+Input:
+10:
+97
+39
+2000
+
+14:
+669
+698
+2000
+
+2:
+333
+247
+500
+
+22:
+64
+142
+1000
+
+25:
+93
+103
+2000
+
+28:
+101
+133
+2000
+
+29:
+122
+154
+2000
+
+36:
+398
+876
+1000
+
+
+A (1): Glioma
+223
+274
+3300
+A (2): Metastas
+60
+90
+100
+A (3): Mananj
+250
+190
+2000
+A (5): metastas
+190
+83
+2000
+A (6): Mananj
+118
+158
+800
+A (7): glioma
+125
+125
+1250
+A (8): glioma
+109
+169
+650
+A (9): glioma
+206
+450
+200
+
+Output:
+
+>>>> A (1).jpg >> 0.18118% is Metastas and 0.81882% is Glioma
+>>>> A (2).jpg >> 0.1309% is Glioma and 0.8691% is Metastas
+>>>> A (3).jpg >>>> is Menangioma 
+>>>> A (5).jpg >> 0.13417% is Glioma and 0.86583% is Metastas
+>>>> A (6).jpg >>>> is Menangioma
+>>>> A (7).jpg >> 0.35915% is Metastas and 0.64085% is Glioma 
+>>>> A (8).jpg >> 0.23028% is metastas and 0.76972% is Glioma
+>>>> A (9).jpg >> 0.17277% is metastas and 0.82723% is Glioma
